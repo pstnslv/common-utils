@@ -1,4 +1,5 @@
 [![codecov](https://codecov.io/gh/opensearch-project/common-utils/branch/main/graph/badge.svg)](https://codecov.io/gh/opensearch-project/common-utils)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpstnslv%2Fcommon-utils.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpstnslv%2Fcommon-utils?ref=badge_shield)
 
 <img src="https://opensearch.org/assets/img/opensearch-logo-themed.svg" height="64px">
 
@@ -43,6 +44,9 @@ If you discover a potential security issue in this project we ask that you notif
 ## License
 
 This project is licensed under the [Apache v2.0 License](LICENSE.txt).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpstnslv%2Fcommon-utils.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpstnslv%2Fcommon-utils?ref=badge_large)
 
 ## Copyright
 
